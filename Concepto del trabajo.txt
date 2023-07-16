@@ -1,0 +1,8 @@
+Lo que intento con esta pagina es lograr un sitio con informacion educativa.En este caso  elegi 
+Dinosaurios porque es algo que a mi hermanito de 7 años le encanta y es tengo ganas de mostrarle el resultado.
+Tendria un menu principal ,y desde ahi se podria ver algunos elementos destacados.Ademas desde la barra de navegacion 
+se podria a acceder a diferentes articulos sobre cada especie que tambien, se encuentran clasificadas segun el medio
+por es cual se desplazaban ademas de por su tipo alimentacion.
+En cada articulo se encuentra un poco de informcion de cada especie y una hoja de datos con(peso,altura,etc) y alguna imagen 
+y video si es posible.
+Entrego lo que tengo de momento ya que no he tenido suficiente tiempo para ampliar como hubiera querido, ya que tengo otros compromisos.
